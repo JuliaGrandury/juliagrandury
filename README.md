@@ -5,10 +5,10 @@
 
 # Hi, i'm Julia Grandury!
 - 🧠 Neuroscience and Psychology Major turned Software Engineer
-- Interested in AI for Health, AI Ethics and AI for Environmental Preservation
+- 🌲 Interested in AI for Health, AI Ethics and AI for Environmental Preservation
 
 #### Currently looking to work as a Front-End or Full Stack Developper
-#### and in my spare team I love to
+#### and in my spare team I love to...
 - Hike, Backpack and Camp 🏕
 - Enjoy live music and engage in all kinds of dance🕺
 - Code things that make my life easier 👩‍💻
