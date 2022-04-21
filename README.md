@@ -1,6 +1,6 @@
-<a href="https://www.linkedin.com/in/jgrandury/" target="_blank" rel="nofollow">
+<a href="https://www.linkedin.com/in/jgrandury/" target="_blank">
   <img align="right" alt="LinkedIn" width="43px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
-<a href="https://juliagrandury.github.io/" target="_blank" rel="nofollow">
+<a href="https://juliagrandury.github.io/" target="_blank">
   <img align="right" alt="Personal Website" width="43px" src="https://image.flaticon.com/icons/png/512/975/975645.png" /></a>
 
 # Hi, i'm Julia Grandury!
