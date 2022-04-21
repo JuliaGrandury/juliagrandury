@@ -1,16 +1,18 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/jgrandury/" target="_blank" rel="nofollow">
+  <img align="right" alt="LinkedIn" width="43px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+<a href="https://juliagrandury.github.io/" target="_blank" rel="nofollow">
+  <img align="right" alt="Personal Website" width="43px" src="https://image.flaticon.com/icons/png/512/975/975645.png" /></a>
 
-<!--
-**JuliaGrandury/juliagrandury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, i'm Julia Grandury!
+🧠 Neuroscience and Psychology Major turned Software Engineer
+Interested in AI for Health, AI Ethics and AI for Environmental Preservation
 
-Here are some ideas to get you started:
+#### Currently looking to work as a Front-End or Full Stack Developper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### and in my spare team I love to
+- Hike, Backpack and Camp 🏕
+- Enjoy live music and engage in all kinds of dance🕺
+- Code things that make my life easier 👩‍💻
+
+## Skills
+![](https://img.shields.io/badge/Data-MySQL-9cf)
