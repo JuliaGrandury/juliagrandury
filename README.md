@@ -10,10 +10,13 @@
 #### Currently looking to work as a Front-End or Full Stack Developper!
 
 ## Skills
-![]()
-![]()
-![]()
-![]()
+![](https://img.shields.io/badge/Language-Javascript-blueviolet)
+![](https://img.shields.io/badge/Language-Java-blueviolet)
+![](https://img.shields.io/badge/Language-HTML-blueviolet)
+![](https://img.shields.io/badge/Language-CSS-blueviolet)
+![](https://img.shields.io/badge/Language-SASS-blueviolet)
+![](https://img.shields.io/badge/Language-C%2B%2B-blueviolet)
+![](https://img.shields.io/badge/Language-Java-blueviolet)
 ![](https://img.shields.io/badge/Language-Swift-blueviolet)
 
 ![](https://img.shields.io/badge/JS-Node.js-orange)
