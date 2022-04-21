@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/jgrandury/" target="_blank">
-  <img align="right" alt="LinkedIn" width="100px" src="https://img.icons8.com/clouds/64/000000/linkedin.png" /></a>
+  <img align="right" alt="LinkedIn" width="60px" src="https://img.icons8.com/clouds/64/000000/linkedin.png" /></a>
 <a href="https://juliagrandury.github.io/" target="_blank">
   <img align="right" alt="Personal Website" width="50px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-computer-free-time-wanicon-lineal-color-wanicon.png"/></a>
 
