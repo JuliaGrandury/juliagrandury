@@ -7,6 +7,7 @@
 #### Currently looking to work as a Front-End or Full Stack Developper!
 - 🧠 Neuroscience and Psychology Major turned Software Engineer
 - 🌲 Interested in AI for Health, AI Ethics and AI for Environmental Preservation
+- <img width="10px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-computer-free-time-wanicon-lineal-color-wanicon.png"/> Check out my website for more!
 
 
 ## Skills
