@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/jgrandury/" target="_blank">
   <img align="right" alt="LinkedIn" width="43px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
 <a href="https://juliagrandury.github.io/" target="_blank">
-  <img align="right" alt="Personal Website" width="28px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-computer-free-time-wanicon-lineal-color-wanicon.png"/></a>
+  <img align="right" alt="Personal Website" width="40px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-computer-free-time-wanicon-lineal-color-wanicon.png"/></a>
 
 # Hi, i'm Julia Grandury!
 #### Currently looking to work as a Front-End or Full Stack Developper!
