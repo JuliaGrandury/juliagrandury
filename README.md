@@ -16,16 +16,10 @@
 ## Skills
 ![](https://img.shields.io/badge/Language-Javascript-blueviolet)    ![](https://img.shields.io/badge/Language-Java-blueviolet)                         ![](https://img.shields.io/badge/Language-HTML-blueviolet)    ![](https://img.shields.io/badge/Language-CSS-blueviolet)                                 ![](https://img.shields.io/badge/Language-SASS-blueviolet)    ![](https://img.shields.io/badge/Language-C%2B%2B-blueviolet)                             ![](https://img.shields.io/badge/Language-Java-blueviolet)    ![](https://img.shields.io/badge/Language-Swift-blueviolet)
 
-![](https://img.shields.io/badge/JS-Node.js-orange)
-![](https://img.shields.io/badge/JS-React.js-orange)
-![](https://img.shields.io/badge/JS-Next.js-orange)
-![](https://img.shields.io/badge/JS-Redux-orange)
+![](https://img.shields.io/badge/JS-Node.js-orange)     ![](https://img.shields.io/badge/JS-React.js-orange)      ![](https://img.shields.io/badge/JS-Next.js-orange)     ![](https://img.shields.io/badge/JS-Redux-orange)
 
-![](https://img.shields.io/badge/Framework-Express.js-ff69b4)
-![](https://img.shields.io/badge/Framework-Bootstrap-ff69b4)
+![](https://img.shields.io/badge/Framework-Express.js-ff69b4)   ![](https://img.shields.io/badge/Framework-Bootstrap-ff69b4)
 
 ![](https://img.shields.io/badge/Data-MySQL-9cf)
 
-![](https://img.shields.io/badge/IDE-VSCode-yellow)
-![](https://img.shields.io/badge/IDE-Eclipse-yellow)
-![](https://img.shields.io/badge/IDE-XCode-yellow)
+![](https://img.shields.io/badge/IDE-VSCode-yellow)   ![](https://img.shields.io/badge/IDE-Eclipse-yellow)    ![](https://img.shields.io/badge/IDE-XCode-yellow)
