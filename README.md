@@ -15,7 +15,7 @@
 
 ## Skills
 ![](https://img.shields.io/badge/Language-Javascript-blueviolet)
-![](https://img.shields.io/badge/Language-Java-blueviolet)
+[](https://img.shields.io/badge/Language-Java-blueviolet)
 ![](https://img.shields.io/badge/Language-HTML-blueviolet)
 ![](https://img.shields.io/badge/Language-CSS-blueviolet)
 ![](https://img.shields.io/badge/Language-SASS-blueviolet)
