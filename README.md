@@ -15,5 +15,4 @@
 
 
 ## Skills
-- Javascript, Python, Java, C++, HTML/CSS
-- React, Redux, Postgres, Express, Node
+Javascript, Python, Java, C++, HTML/CSS, React, Redux, Postgres, Express, Node
