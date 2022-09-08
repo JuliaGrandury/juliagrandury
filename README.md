@@ -12,3 +12,8 @@
 - 🤖 Interested in AI for Health and AI Ethics 
 - 🌊 Passionate about green tech, blue tech, and health tech
 - <img width="20px" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-computer-free-time-wanicon-lineal-color-wanicon.png"/> Check out my <a href="https://juliagrandury.github.io/" target="_blank">website</a> for more!
+
+
+## Skills
+- Javascript, Python, Java, C++, HTML/CSS
+- React, Redux, Postgres, Express, Node
