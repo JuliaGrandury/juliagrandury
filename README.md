@@ -7,7 +7,6 @@
 
 
 # Hi, i'm Julia Grandury!
-#### Currently looking to work as a Front-End or Full Stack Developer
 - 🧠 Neuroscience and Psychology Major turned Software Engineer
 - 🤖 Interested in AI for Health and AI Ethics 
 - 🌊 Passionate about green tech, blue tech, and health tech
